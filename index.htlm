@@ -1,0 +1,227 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Tottenham" trabajo final</title>
+        
+        <style>
+   
+            h1{
+                text-align:center;
+                font-family:"helvetica";
+                font-size:40px;
+                color:rgb(5, 2, 79);
+            }
+            
+            h2:hover, h3:hover {
+                color:rgb(23, 107, 107);
+            }
+       
+            body, #copas-tottenham{
+                background-color:rgb(148, 190, 242);
+                text-transform:lowercase;
+            }
+       
+            
+            .copas-lor {
+                background-color:rgb(245, 243, 210);
+                font-family:helvetica,sans-serif; 
+            }
+       
+            .himno {
+                background-color:rgb(245, 243, 210);
+                font-family:cursive,sans-serif; 
+            }
+            
+            table {
+                border-collapse: separate;
+                padding:2px;
+            }
+            
+            td {
+                border:  3px solid;
+                background:rgb(255, 255, 255);
+            }
+             th {
+                border:  3px solid;
+                background:rgb(8, 8, 8);
+                color:rgb(255, 255, 255);
+            }
+            h3{
+                letter-spacing: 7px;
+            }
+    
+            p{
+                line-height: 20pt; 
+            }
+    
+            #montaña {
+                width:240px;
+                display:block;
+                margin:auto;
+                border:3px dashed rgb(94, 94, 94);
+            }
+    
+            .lista{
+                background: rgb(150, 186, 230);
+                width:80%;
+                height:200px;
+                overflow:auto;
+            }
+    
+            .todo{
+                margin:10px 0px 3px 5px;
+                border: 0.5px solid gray;
+                padding:2px 6px;
+            }
+            
+            
+        </style>
+  </head>
+
+    <body> 
+        <Div class="todo">   
+            <div>
+                <div class="Bgc(#0280ae.5) H(120 px) IbBox W(80%) foo_W(80%)"> </div> 
+            </div>
+             <hr>
+                <div class="foo">
+                    <div class="Bgc(#0280ae.5) H(90px) IbBox W(100%) foo_W(100%)"></div>
+                </div>
+             <ul> </ul>
+             <h1>Tottenham hotspur</h1>
+             <h2>Información básica</h2>
+             <p class="copas-lor">
+
+                El tottenham es un equipo que esta ubicado al norte de londres en                         Inglaterra. Existe desde el 5 de septiembre de 1882 (138 años) y en ese                   tiempo ha alcanzado un total de 24 copas o titulos.
+                <br> Hablando de estadios de futbol el tottenham cuenta con el estadio mas                      moderno, tegnologico y  con uno de los mejores aspectos arquitectonic                      amente hablando a nivel mundial. Este estadio puede albergar alredeor                      de 62.303 personas siendo el Tottenham un estadio con gran capacidad
+                <br> Volviendo al tema de la tegnologia este estadio puede darle la vuelta                      a la cancha para convertirse en una cancha de futbol americano ya que                       tienen un convenio con la NFL (Liga Nacional de Fútbol Americano).
+             </p>
+
+    
+             <h3>Los 11 Jugadores Titulares </h3>
+             <div class="lista"> <a href= "#posinal"> Posiciones y Nacionalidad</a> 
+                    <li class="copas-lor">Hugo lloris </li>
+                    <li class="copas-lor">Davinson Sánchez</li>
+                    <li class="copas-lor">Toby Aldelweired</li>
+                    <li class="copas-lor">Ben Davies</li>
+                    <li class="copas-lor">Aurier</li>
+                    <li class="copas-lor">Dele Alli</li>
+                    <li class="copas-lor">Hojbej</li>
+                    <li class="copas-lor">Heung-min Son</li>
+                    <li class="copas-lor">Lucas Moura</li>
+                    <li class="copas-lor">Harry kane</li>
+                    <li class="copas-lor">Gareth Bale</li> <br>
+                </div> 
+             <h4 Id="posinal"> Tabla Posiciones y Nacionalidad <a href="https://es                        .wikipedia.org/wiki/Tottenham_Hotspur_Football_Club#Jugadores"> (conocer                  toda la Nomina) </a></h4> <br>     
+            
+                <table>
+              
+                    <thead>
+            
+                            <tr>
+                                <th> # </th>
+                                <th>Camiseta </th>  
+                                <th>País </th>
+                                <th>Posición</th>
+                            </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td> 1 </td>
+                            <td> Lloris </td>
+                            <td> Francia - </td>
+                            <td> Portero </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 6 </td> 
+                            <td> Sánchez </td>
+                            <td> Colombia - </td>
+                            <td> Defensa </td>
+                        </tr>
+                        <tr>
+                            <td> 4 </td> 
+                            <td> Aldelweired </td>
+                            <td> Bélgica - </td>
+                            <td> Defensa </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 33 </td> 
+                            <td> Davies </td>
+                            <td> Gales - </td>
+                            <td> Centro Campista </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 24 </td> 
+                            <td> Aurier </td>
+                            <td> C. de Marfil - </td>
+                            <td> Centro Campista </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 20 </td> 
+                            <td> Alli </td>
+                            <td> Inglaterra - </td>
+                            <td> Centro Campista </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 5 </td> 
+                            <td> Hojbej </td>
+                            <td> Dinamarca - </td>
+                            <td> Centro Campista </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 7 </td> 
+                            <td> Son </td>
+                            <td> Corea del Sur - </td>
+                            <td> Delantero </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 27 </td> 
+                            <td>Moura </td>
+                            <td> Brasil - </td>
+                            <td> Centro Campista </td>
+                        </tr>
+                        <tr>
+                            <td> 10 </td> 
+                            <td> Kane </td>
+                            <td> Inglaterra - </td>
+                            <td> Delantero </td>
+                        </tr>
+                
+                        <tr>
+                            <td> 9 </td> 
+                            <td> Bale </td>
+                            <td> Gales - </td>
+                            <td> Centro Campista </td>
+                        </tr>
+                    </tbody>
+
+                </table>
+            
+            <h3>Himno mas famoso</h3>
+            <p class= "himno">
+        
+                Glory Glory Tottenham Hotspurs(x3)<br>
+                And The Spurs Go Marching on<br>
+                Tottenham Are The Greatest Team The World Has Ever Seen(x3)<br>
+                And The Spurs Go Marching On<br>
+                Glory Glory Tottenham Hotspurs(x3)<br>
+                And The Spurs Go Marching on<br>
+                The Pride Of North Of London Were The Kings Of Withe Hart Lane(x3)                        And The Spurs Go Marching On
+                <br>
+           
+        
+                <Div> <img id="montaña" src="https://www.kasandbox.org/programming-images/landscapes/mountain_matterhorn.png"> </Div>
+        
+                Esto ultimo es solo para poner una imagen ya que en la tarea exigia poner                 lo que aprendimos, pero no encontre algo relacionado asi que aqui esta la                 foto
+            </p>
+        </Div>
+    </body>
+</html>
+
